@@ -1,5 +1,5 @@
 ### [nodemcu 和 esp8266的关系](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-hardware/)
-### [淘宝及简介](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.5.5b742cd5KibsEt&id=606082163513&user_id=2201438661052&is_b=1&cat_id=2&q=nodemcu&rn=a9b6ddf99cecfa5c01e0482d98eb40d4)
+### [用nodemcu 开发wifi也可以给esp8266系列的芯片编程](https://www.bilibili.com/read/cv2186586/)
 ### [参考mac 上的配置](https://www.toutiao.com/i6798723641820316168/)
 ### [ch340 mac 版驱动](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver/raw/master/CH34x_Install_V1.5.pkg)
 ### arduino -> preference -> settings -> additional boards manager urls (nodemcu 插件) ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
