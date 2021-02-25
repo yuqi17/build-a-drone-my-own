@@ -3,10 +3,9 @@
 下面是教程的附带arduino端的代码：
 
 ```c
-  String a;
+String a;
 int led = 13;
-void setup()
-{
+void setup(){
     Serial.begin(9600);
     pinMode(led,OUTPUT);
 }
@@ -19,13 +18,12 @@ void loop(){
         {
             digitalWrite(led,HIGH);
         }
-
         if(a =="OFF")
         {
             digitalWrite (led,LOW);
         }
-
     }
-
 }
 ```
+
+这是我对照教程自己做的项目：[http://ai2.appinventor.mit.edu/?locale=en#5679637117403136](http://ai2.appinventor.mit.edu/?locale=en#5679637117403136)
