@@ -27,3 +27,5 @@ void loop(){
 ```
 
 这是我对照教程自己做的项目：[http://ai2.appinventor.mit.edu/?locale=en#5679637117403136](http://ai2.appinventor.mit.edu/?locale=en#5679637117403136)
+
+下面是关于UDP扩展的 [文章](http://lucstechblog.blogspot.com/2019/03/udp-communication-part-iv-android-to-esp.html),下载对应的扩展文件，然后导入就可以使用了。
