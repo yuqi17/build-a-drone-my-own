@@ -1,8 +1,6 @@
 
 参考文章的作者采用的是 process language 来编写 上位机: [https://android.processing.org/index.html](https://android.processing.org/index.html)
-对应可以取下载IDE,然后是下载作者的源码,和一些相应的UDP等依赖的jar包，做一些配置，然后编译出apk。原作者已经给了apk,自己也可以查看源码，得到一些启示，比如
-将对应的代码用其他平台跑，比如小程序.在网上也发现了一个通过拖拉拽就可以编写app 的平台: [MIT App Inventor](http://ai2.appinventor.mit.edu/?locale=zh_CN#6223585128873984),
-有空研究一下。下面是作者的代码:
+对应可以取下载IDE,然后是下载作者的源码,设置android sdk 和 相应的UDP,ketai 的library，做一些配置，然后编译出apk。下面是作者的代码:
 
 ```java
 //**************************************************
