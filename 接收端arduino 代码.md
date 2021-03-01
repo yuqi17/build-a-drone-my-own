@@ -1,4 +1,4 @@
-按照作者的意思是将手机热点的wifi session id 和 密码都准备好，然后设置到如下代码中。最后再烧写；esp芯片有 [AP和STA模式](https://blog.csdn.net/espressif/article/details/81742660)。
+按照作者的意思是将手机热点的wifi session id 和 密码都准备好，然后设置到如下代码中。最后再烧写；esp 芯片有 [AP(让你取连接)和STA模式](https://blog.csdn.net/espressif/article/details/81742660)。
 这里是一个 [arduino 上 AP 和 STA 的测试代码](https://blog.csdn.net/weixin_43232155/article/details/98237142)
 ```c
 //**************************************************
