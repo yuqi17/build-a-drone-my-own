@@ -1,7 +1,7 @@
 ### [nodemcu 和 esp8266的关系](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-hardware/)
 ### [用nodemcu 开发wifi也可以给esp8266系列的芯片编程](https://www.bilibili.com/read/cv2186586/)
 ### [参考mac 上的配置](https://www.toutiao.com/i6798723641820316168/)
-### [ch340 mac 版驱动](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver/raw/master/CH34x_Install_V1.5.pkg)
+### [ch340 mac 版驱动](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver/raw/master/CH34x_Install_V1.5.pkg)是一种类似USB的串口，但是普通USB 口是供电口，不能识别为通信口，所以要安装驱动
 ### arduino -> preference -> settings -> additional boards manager urls (nodemcu 插件) ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
 ### tools => board arduino -> board manager -> 搜索 esp8266 选择 esp8266 byesp8266 community 安装
 ### tools => 将开发板选择为 nodemcu 1.0 esp 12e module
