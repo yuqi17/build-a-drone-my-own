@@ -43,4 +43,4 @@ void loop()
 ### 3. Serial.begin(115200); 设置的baud 一定要和 serial monitor 上的 一样才不会出现乱码
 ### 4. 手机开热点可以不用接互联网网口wifi 或 移动流量也可以连芯片，它们是互不干扰的。
 ### 5. arduino 里面的String s = "xxx" 和 char *c = "xxx" char [] ssid = "xx" 不可以随便等同，String 是一个c++ 类
-
+### 6. udp 模块读的API 可以是int, char[], String,但发送只能string, char[]
