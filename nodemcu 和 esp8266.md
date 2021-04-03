@@ -27,7 +27,7 @@ void setup(void)
   Serial.println("");
   Serial.println("WiFi connection Successful");
   Serial.print("The IP Address of ESP8266 Module is: ");
-  Serial.print(WiFi.localIP());// Print the IP address
+  Serial.print(WiFi.localIP());
 }
 
 void loop() 
@@ -36,6 +36,10 @@ void loop()
 }
 ```
 
-### 上传代码到nodemcu,稍等片刻
-### tools serial monitor 串口监听器，按一下板子上的 RST 重置按钮，看看是否返回对应的字符串
+### 上传代码到nodemcu,稍等片刻,大概10秒钟。对应的wifi必须存在才会打印信息。
+总结一下：
+### 1. 默认上面的写法是STA模式，相当于芯片去连接 wifi AP(路由器，或者热点）
+### 2. 上面的 WiFi.localIP() 返回的就是芯片被 wifi AP 分配的IP,通常是不会自己改变的，估计是为了连接方便设置的固定静态IP。
+### 3.   Serial.begin(115200); 设置的baud 一定要和 serial monitor 上的 一样才不会出现乱码
+
 
