@@ -44,3 +44,6 @@ void loop()
 ### 4. 手机开热点可以不用接互联网网口wifi 或 移动流量也可以连芯片，它们是互不干扰的。
 ### 5. arduino 里面的String s = "xxx" 和 char *c = "xxx" char [] ssid = "xx" 不可以随便等同，String 是一个c++ 类
 ### 6. udp 模块读的API 可以是int, char[], String,但发送只能string, char[]
+
+### 给esp 12f 编程：[这里提供了三种方法](https://www.youtube.com/watch?v=_iX67plFeLs&t=99s) , 我个人认为都不是很方便，还需要焊接，焊接了还要拆就比较麻烦了。如果不想
+这么麻烦还是买一个烧写架 40元左右得了，可插拔的那种。
