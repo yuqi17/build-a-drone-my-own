@@ -6,6 +6,9 @@
 ### tools => board arduino -> board manager -> 搜索 esp8266 选择 esp8266 byesp8266 community 安装
 ### tools => 将开发板选择为 nodemcu 1.0 esp 12e module
 ### 将nodemcu 插到电脑上， tools 中选择这个新出现的 com 口
+
+## [特别注意 nodemcu 引脚名 和 esp8266 引脚的对应](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-board/)
+
 ### 一段测试板子是否正常的代码
 ```c
 #include "ESP8266WiFi.h"
