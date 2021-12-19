@@ -1,5 +1,4 @@
-### [nodemcu 和 esp8266的关系](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-hardware/)
-### [用nodemcu 开发wifi也可以给esp8266系列的芯片编程](https://www.bilibili.com/read/cv2186586/)
+
 ### [参考mac 上的配置](https://www.toutiao.com/i6798723641820316168/)
 ### [ch340 mac 版驱动](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver/raw/master/CH34x_Install_V1.5.pkg)是一种类似USB的串口，但是普通USB 口是供电口，不能识别为通信口，所以要安装驱动
 ### arduino -> preference -> settings -> additional boards manager urls (nodemcu 插件) ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
@@ -48,5 +47,4 @@ void loop()
 ### 5. arduino 里面的String s = "xxx" 和 char *c = "xxx" char [] ssid = "xx" 不可以随便等同，String 是一个c++ 类
 ### 6. udp 模块读的API 可以是int, char[], String,但发送只能string, char[]
 
-### 给esp 12f 编程：[这里提供了三种方法](https://www.youtube.com/watch?v=_iX67plFeLs&t=99s) , 我个人认为都不是很方便，还需要焊接，焊接了还要拆就比较麻烦了。如果不想
-这么麻烦还是买一个烧写架 40元左右得了，可插拔的那种。
+### 给esp 12f 编程：[这里提供了三种方法](https://www.youtube.com/watch?v=_iX67plFeLs&t=99s) , 我个人认为都不是很方便，还这么麻烦还是买一个烧写架 40元左右得了，可插拔的那种。
