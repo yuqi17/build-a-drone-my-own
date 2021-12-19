@@ -1,13 +1,15 @@
 
-### [参考mac 上的配置](https://www.toutiao.com/i6798723641820316168/)
+
 ### [ch340 mac 版驱动](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver/raw/master/CH34x_Install_V1.5.pkg)是一种类似USB的串口，但是普通USB 口是供电口，不能识别为通信口，所以要安装驱动
-### arduino -> preference -> settings -> additional boards manager urls (nodemcu 插件) ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
+### arduino -> preference -> settings -> additional boards manager urls (nodemcu 插件) 
+``` http://arduino.esp8266.com/stable/package_esp8266com_index.json ```
 ### tools => board arduino -> board manager -> 搜索 esp8266 选择 esp8266 byesp8266 community 安装
+
 ### tools => 将开发板选择为 nodemcu 1.0 esp 12e module
 ### 将nodemcu 插到电脑上， tools 中选择这个新出现的 com 口
 
 ## [特别注意 nodemcu 引脚名 和 esp8266 引脚的对应](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-board/)
-
+### nodemcu 的工作电压不要超过3.6V,一般在3.3V。引脚的最大工作电压为1V,最大工作电流为12mA(0.012A)
 ### 一段测试板子是否正常的代码
 ```c
 #include "ESP8266WiFi.h"
