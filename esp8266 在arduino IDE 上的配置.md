@@ -10,7 +10,8 @@
 ### tools => 将开发板选择为 nodemcu 1.0 esp 12e module
 ### 将nodemcu 插到电脑上， tools 中选择这个新出现的 com 口
 
-## [特别注意 nodemcu 引脚名 和 esp8266 引脚的对应](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-board/)
+## [注意 nodemcu 引脚名 和 esp8266 引脚的对应](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-board/) digitalWrite(Pin,1); 这里的Pin对应的数字是GIPO后面的数字!!!
+# [特别注意esp 12f 说明书含有GPIO图示](https://docs.ai-thinker.com/_media/esp8266/docs/esp-12f_product_specification_zh_v1.0.pdf)
 ### nodemcu 的工作电压不要超过3.6V,一般在3.3V。引脚的最大工作电压为1V,最大工作电流为12mA(0.012A)
 ### 一段测试板子是否正常的代码(也可以用arduino -> file -> example -> basics -> blink，编译烧写 来查看是否nodemcu 正常工作）
 ```c
