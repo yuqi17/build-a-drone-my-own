@@ -19,8 +19,8 @@
 ```c
 #include "ESP8266WiFi.h"
 
-const char* ssid = "ssid"; //输入你的wifi名（esp8266只支持2.4Gwifi!）
-const char* password = "password"; //输入你的wifi密码
+const char* ssid = "wifiplane"; //输入你的wifi名（esp8266只支持2.4Gwifi!）
+const char* password = "wifiplane1234"; //输入你的wifi密码
 
 void setup(void)
 { 
