@@ -54,4 +54,4 @@ void loop()
 ### 5. arduino 里面的String s = "xxx" 和 char *c = "xxx" char [] ssid = "xx" 不可以随便等同，String 是一个c++ 类
 ### 6. udp 模块读的API 可以是int, char[], String,但发送只能string, char[]
 
-### 给esp 12f 编程：[这里提供了三种方法](https://www.youtube.com/watch?v=_iX67plFeLs&t=99s) , 我个人认为都不是很方便，还这么麻烦还是买一个烧写架 40元左右得了，可插拔的那种,不过驱动一般是 [CH9102]:CH9102 driver_MAC_V1.1.zip "hi"。
+### 给esp 12f 编程：[这里提供了三种方法](https://www.youtube.com/watch?v=_iX67plFeLs&t=99s) , 我个人认为都不是很方便，还这么麻烦还是买一个烧写架 40元左右得了，可插拔的那种,不过驱动一般是 CH9102。
