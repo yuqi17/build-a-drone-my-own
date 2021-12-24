@@ -1,7 +1,7 @@
 
 
 ### 串口monitor,输入并send
-```
+```c++
 
   String readString;
   
