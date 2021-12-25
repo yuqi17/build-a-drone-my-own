@@ -64,8 +64,8 @@
   }
   
   void loop(){
-    float sensor1 = 10 * analogRead(A0)/1024f;// 不一定要乘以10
-    float sensor2 = 20 + 10 * analogRead(A0)/1024f;
+    float sensor1 = 10 * analogRead(A0)/1024.f;// 不一定要乘以10
+    float sensor2 = 20 + 10 * analogRead(A0)/1024.f;
     plot("sensor1", sensor1, false);
     plot("sensor2", sensor1, true);
     
