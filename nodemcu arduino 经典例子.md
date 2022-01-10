@@ -68,6 +68,7 @@ void loop() {
 ```
 
 ### 3. 轻触开关 [参考](https://www.qutaojiao.com/229.html)
+![pushbutton](button_test.png)
 ```c++
 int led = 5;   // LED引脚 //D1
 int button = 16; // 按键连接的引脚 // D0
