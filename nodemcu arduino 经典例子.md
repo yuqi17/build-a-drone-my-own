@@ -27,7 +27,7 @@ void loop() {
 }
 ```
 
-### 2. 伺服电机
+### 2. 伺服电机 [参考](https://quark.sm.cn/api/rest?method=Quarkdahanghai.knowledge&format=html&uc_param_str=dnntnwvefrgicput#/share/423d6868e84e184456a659a6bf9553fd)
 ```c++
   /* Sweep
   by BARRAGAN <http://barraganstudio.com>
