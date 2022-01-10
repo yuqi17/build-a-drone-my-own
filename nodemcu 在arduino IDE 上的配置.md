@@ -11,6 +11,7 @@
 ### 将nodemcu 插到电脑上， tools 中选择这个新出现的 com 口
 
 ## [注意 nodemcu 引脚名 和 esp8266 引脚的对应](http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/esp8266-nodemcu-tutorial-index/nodemcu-board/) 
+![nodemcu](nodemcu_schematic.jpg)
 1. digitalWrite(Pin,1); 这里的Pin对应的数字是GIPO后面的数字!!!
 2. GPIO 6- 11 跟闪存相关不建议使用!!
 3. ```GPIO 4,GPIO5 对应nodemcu 的D2 和 D1```
