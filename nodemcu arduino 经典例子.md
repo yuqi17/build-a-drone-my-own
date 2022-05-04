@@ -92,3 +92,5 @@ void loop() {
 }
 ```
 
+### 4. [Nodemcu 控制 L298N 驱动电机](https://blog.csdn.net/qq_44419932/article/details/115905686)
+
