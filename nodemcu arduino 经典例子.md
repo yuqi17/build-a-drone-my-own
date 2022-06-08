@@ -97,3 +97,5 @@ void loop() {
 ### 5. [小爱同学语音通过点灯科技控制nodemcu led](https://www.kidscoding8.com/118686.html)
 
 ### 6. [nodemcu 通过红外控制空调](https://www.yiboard.com/thread-1544-1-1.html)
+
+### 7. [nodemcu 控制DHT11](https://blog.51cto.com/u_15440897/4672869)
