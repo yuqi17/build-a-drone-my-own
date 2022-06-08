@@ -95,3 +95,5 @@ void loop() {
 ### 4. [Nodemcu 控制 L298N 驱动电机](https://blog.csdn.net/qq_44419932/article/details/115905686)
 
 ### 5. [小爱同学语音通过点灯科技控制nodemcu led](https://www.kidscoding8.com/118686.html)
+
+### 6. [nodemcu 通过红外控制空调](https://www.yiboard.com/thread-1544-1-1.html)
