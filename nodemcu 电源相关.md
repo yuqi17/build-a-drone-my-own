@@ -28,3 +28,7 @@ Serial.setTimeout(2000);  // Wait for serial to initialize.  while(!Serial) {
 ### 上载代码后，按RST按钮开始运行代码，然后将RST连接到GPIO16。ESP8266应该每30秒唤醒一次，并在串行监视器中显示一条消息 
 
 2. [关闭esp8266](https://www.toutiao.com/article/7062619573568258564/ 关闭esp8266 ) 接GPIO5 VCC, GND, 把电平拉低就关机
+
+3. [nodemcu 简介](https://www.yiboard.com/thread-1548-1-1.html#google_vignette)
+4. VIN 引脚的原理图如下:
+![image](https://github.com/yuqi17/build-a-drone-my-own/assets/10356819/aaeeae08-2910-408c-9e93-7d4c1cc70b27)
