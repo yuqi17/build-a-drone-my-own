@@ -42,3 +42,5 @@ void loop() {
 3. [nodemcu 简介](https://www.yiboard.com/thread-1548-1-1.html#google_vignette)
 4. VIN 引脚的原理图如下:
 ![image](https://github.com/yuqi17/build-a-drone-my-own/assets/10356819/aaeeae08-2910-408c-9e93-7d4c1cc70b27)
+
+5. 上面的图说明了 普通引脚的3.3V 是不走 ```AMS1117 低压差线性稳压器```, 再加上引脚的最大承受压是3.6V,因此 3.7V的锂电池(通常不会有3.7V)可以给nodemcu 供电.
