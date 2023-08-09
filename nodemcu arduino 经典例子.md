@@ -75,8 +75,8 @@ int led = 5;   // LED引脚 //D1
 int button = 16; // 按键连接的引脚 // D0
 int temp = 0;    // 用于读取按键状态的临时变量
 void setup() {
-  pinMode(led, OUTPUT);   // LED设置为输入
-  pinMode(button, INPUT); // 按键设置为输出, 实际上就是个信号参考位，不影响其它引脚。仅仅是一个内存标志。
+  pinMode(led, OUTPUT);   // LED设置为输出
+  pinMode(button, INPUT); // 按键设置为输入, 实际上就是个信号参考位，不影响其它引脚。仅仅是一个内存标志。
 }
 void loop() {
   temp = digitalRead(button);
