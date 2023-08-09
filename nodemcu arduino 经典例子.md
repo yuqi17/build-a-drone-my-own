@@ -101,6 +101,8 @@ void loop() {
 
 ### 7. [nodemcu 控制DHT11](https://blog.51cto.com/u_15440897/4672869)
 
+### 8. [nodemcu 控制4个 5V的继电器 VIN 输入5V](https://www.elecfans.com/d/1856924.html)
+
 ## 附带资料:
 ### 1. [EMQ 的MQTT客户端,可以用来调试mqtt](https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker)
 ### 2. [小程序接科大讯飞语音识别](https://developers.weixin.qq.com/community/develop/article/doc/000ac6470783008cc7fd577525bc13)
