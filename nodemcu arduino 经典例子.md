@@ -28,6 +28,7 @@ void loop() {
 ```
 
 ### 2. 伺服电机 [参考](https://quark.sm.cn/api/rest?method=Quarkdahanghai.knowledge&format=html&uc_param_str=dnntnwvefrgicput#/share/423d6868e84e184456a659a6bf9553fd)
+[MG996R的详细参数文档](https://pdf1.alldatasheet.com/datasheet-pdf/view/1131873/ETC2/MG996R.html)
 ```c++
   /* Sweep
   by BARRAGAN <http://barraganstudio.com>
