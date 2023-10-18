@@ -29,6 +29,8 @@ void loop() {
 
 ### 2. 伺服电机 [参考](https://quark.sm.cn/api/rest?method=Quarkdahanghai.knowledge&format=html&uc_param_str=dnntnwvefrgicput#/share/423d6868e84e184456a659a6bf9553fd)
 [MG996R的详细参数文档](https://pdf1.alldatasheet.com/datasheet-pdf/view/1131873/ETC2/MG996R.html)
+[接外部电源](https://blog.csdn.net/LUqingyaun/article/details/88600573)
+[接nodemcu电源](https://github.com/C1499/MiKa/blob/master/esp8266/README.md)
 ```c++
   /* Sweep
   by BARRAGAN <http://barraganstudio.com>
