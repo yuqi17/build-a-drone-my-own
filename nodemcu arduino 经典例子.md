@@ -31,6 +31,10 @@ void loop() {
 - [MG996R的详细参数文档](https://pdf1.alldatasheet.com/datasheet-pdf/view/1131873/ETC2/MG996R.html)
 - [接外部电源](https://blog.csdn.net/LUqingyaun/article/details/88600573)
 -  [接nodemcu电源](https://github.com/C1499/MiKa/blob/master/esp8266/README.md)
+
+Specifications •Weight: 55 g •Dimension: 40.7 x 19.7 x 42.9 mm approx. •Stall torque: 9.4 kgf·cm (4.8 V ), 11 kgf·cm (6 V) •Operating speed: 0.17 s/60º (4.8 V), 0.14 s/60º (6 V)  
+•Operating voltage: 4.8 V a 7.2 V•Running Current 500 mA –•Stall Current 2.5 A (6V) •Dead band width: 5 μs •Stable and shock proof  double ball bearing design•Temperature range: 0 ºC –4.8 V a 7.2 V– 900 mA (6V) double ball bearing design55 ºC
+
 ```c++
   /* Sweep
   by BARRAGAN <http://barraganstudio.com>
