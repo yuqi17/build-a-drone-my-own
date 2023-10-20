@@ -48,7 +48,7 @@ Specifications
 
 [扭矩公斤力和牛顿米的转换](https://www.justintools.com/unit-conversion/torque.php?k1=kilogram-force-centimeters&k2=newton-meters)
 ```
-9.4 kgf.cm 约为 0.92N*m 约为 1N*m,  相当于2个鸡蛋重力作用在一米的力臂上.
+9.4 kgf.cm 约为 0.92N*m 约为 1N*m,  相当于2个鸡蛋重力作用在一米的力臂上. 以我自己的门为例子, 如果直接用手按门把手的力小于等于 5Kg物体产生的重力,就可以把门打开.我觉得可行.
 ```
 ```c++
   /* Sweep
