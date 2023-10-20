@@ -31,6 +31,7 @@ void loop() {
 - [MG996R的详细参数文档](https://pdf1.alldatasheet.com/datasheet-pdf/view/1131873/ETC2/MG996R.html)
 - [接外部电源](https://blog.csdn.net/LUqingyaun/article/details/88600573)
 -  [接nodemcu电源](https://github.com/C1499/MiKa/blob/master/esp8266/README.md)
+-  2023 淘宝价格 11元, 除去邮费假设为(6元), 这个东西的价格应该在5元左右, 成本价估计也就 3元左右.
 ```
 Specifications 
 •Weight: 55 g 
