@@ -46,6 +46,10 @@ Specifications
 •Temperature range: 0 ºC –4.8 V a 7.2 V– 900 mA (6V) double ball bearing design55 ºC
 ```
 
+[扭矩公斤力和牛顿米的转换](https://www.justintools.com/unit-conversion/torque.php?k1=kilogram-force-centimeters&k2=newton-meters)
+```
+9.4 kgf.cm 约为 0.92N*m 约为 1N*m,  相当于2个鸡蛋重力作用在一米的力臂上.
+```
 ```c++
   /* Sweep
   by BARRAGAN <http://barraganstudio.com>
