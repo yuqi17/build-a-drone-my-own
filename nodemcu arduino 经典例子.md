@@ -50,7 +50,7 @@ Specifications
 ```
 9.4 kgf.cm 约为 0.92N*m 约为 1N*m,  相当于2个鸡蛋重力作用在一米的力臂上.
 ```
-![aeb2b4042302dc5e4cdb2bc626bb250](https://github.com/yuqi17/build-a-drone-my-own/assets/10356819/7b6367ee-2a6c-4503-b0d2-65442386117a =100x100)
+![aeb2b4042302dc5e4cdb2bc626bb250](https://github.com/yuqi17/build-a-drone-my-own/assets/10356819/7b6367ee-2a6c-4503-b0d2-65442386117a=100x100)
 
 
 ```c++
