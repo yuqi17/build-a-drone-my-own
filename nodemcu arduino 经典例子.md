@@ -50,8 +50,7 @@ Specifications
 ```
 9.4 kgf.cm 约为 0.92N*m 约为 1N*m,  相当于2个鸡蛋重力作用在一米的力臂上. 以我自己的门为例子, 如果直接用手按门把手的力小于等于 5Kg物体产生的重力,就可以把门打开.我觉得可行.
 ```
-
-![a3cc555d9446e6736dadaf751c29a81](https://github.com/yuqi17/build-a-drone-my-own/assets/10356819/a41d3b49-5d34-4669-aa47-f5c3f56ad47e)
+![aeb2b4042302dc5e4cdb2bc626bb250](https://github.com/yuqi17/build-a-drone-my-own/assets/10356819/7b6367ee-2a6c-4503-b0d2-65442386117a)
 
 
 ```c++
